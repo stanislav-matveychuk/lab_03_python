@@ -36,8 +36,6 @@ lab_03_python/
 ├── stats_utils.py
 ├── results.json
 ├── console.log
-└── docs/
-    └── Звіт_ЛР3_робота_з_файлами.docx
 ```
 
 ---
